@@ -22,7 +22,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1j6-brtwtnXSrDOu2i2wes0UAV_kQgTvZ/view?usp=sharing](https://drive.google.com/file/d/1j6-brtwtnXSrDOu2i2wes0UAV_kQgTvZ/view?usp=sharing)
 
-- ⚡ Fun fact **Loves Playing Freefire**
+- ⚡ Fun fact **Loves Playing Freefire
 
 
 
@@ -32,9 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrjha30&show_icons=true&locale=en&layout=compact" alt="hrjha30"/></p>
 
-<h3 align="left">  </h3>
+<h3 align="left"> </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrjha30&show_icons=true&locale=en" alt="hrjha30" /></p>
-<h3 align="left">Trophies </h3>
+<h3 align="left">Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrjha30" alt="hrjha30" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrjha30&" alt="hrjha30" /></p>
