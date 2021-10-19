@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! Everyone <img src="https://media.tenor.com/images/d82823e5026aa8b4c90f5a2fb1b3c2a7/tenor.gif"height="60" width="50"></h1>
+<h1 align="center">Hello!! Everyone <img src="https://media.tenor.com/images/d82823e5026aa8b4c90f5a2fb1b3c2a7/tenor.gif"height="60" width="60"></h1>
 <h3 align="center"> I'm Harsh Raj Jha, a 1st yr. student pursuing B.Tech in CSE from Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" /> </p>
