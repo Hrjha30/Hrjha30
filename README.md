@@ -32,6 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrjha30&show_icons=true&locale=en&layout=compact" alt="hrjha30"/></p>
 
+<h3 align="left">  </h3>
 <h3 align="left"> Statistics : </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrjha30&show_icons=true&locale=en" alt="hrjha30" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrjha30" alt="hrjha30" /></a> </p>
