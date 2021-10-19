@@ -1,5 +1,5 @@
 <h1 align="center">Hello!! Everyone</h1>
-<h3 align="center">I'm Harsh Raj Jha, a 1st yr. student pursuing B.Tech in CSE from Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)</h3>
+<h3 align="center"> I'm Harsh Raj Jha, a 1st yr. student pursuing B.Tech in CSE from Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" /> </p>
 
