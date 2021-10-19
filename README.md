@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrjha30&" alt="hrjha30" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrjha30&layout=compact" alt="hrjha30" /></p>
+
 
 
 
