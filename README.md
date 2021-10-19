@@ -1,9 +1,9 @@
 <h1 align="center">Hello!! Everyone</h1>
 <h3 align="center"> I'm Harsh Raj Jha, a 1st yr. student pursuing B.Tech in CSE from Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrjha30" alt="hrjha30" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -30,6 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrjha30" alt="hrjha30" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrjha30&show_icons=true&locale=en&layout=compact" alt="hrjha30" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrjha30&show_icons=true&locale=en" alt="hrjha30" /></p>
