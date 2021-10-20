@@ -2,16 +2,14 @@
 <h3 align="center"> I'm Harsh Raj Jha, a 1st yr. student pursuing B.Tech in CSE from Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" /> </p>
-<p align="center">
+<p align="center"> 
 <a href="https://linkedin.com/in/harsh-raj-jha-984102178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-jha-984102178" height="30" width="40" /></a>
 <a href="https://instagram.com/hrjha30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrjha30" height="30" width="40" /></a>
 <a href="https://www.behance.net/harshrajjha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harshrajjha1" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hrjha30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hrjha30" height="30" width="40" /></a>
-</p>
-<p align="center"> <img src="https://github.githubassets.com/images/modules/marketplace/marketplace-illustration-01.svg" alt="hrjha30" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="left"> About Me  </h3>
+<h3 align="left"> About Me : </h3> 
 
 - 🔭 I’m currently working on **C and C++ Projects**
 
