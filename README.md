@@ -22,7 +22,7 @@
 
 - 📄 Resume [https://drive.google.com/file/d/1j6-brtwtnXSrDOu2i2wes0UAV_kQgTvZ/view?usp=sharing](https://drive.google.com/file/d/1j6-brtwtnXSrDOu2i2wes0UAV_kQgTvZ/view?usp=sharing)
 
-- ⚡ Fun fact **Loves Playing Freefire
+- ⚡ Fun fact **Loves Playing Freefire**
 
 
 <h3 align="left"><b>Languages and Tools</b></h3>
