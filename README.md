@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm Harsh Raj Jha, a 1st yr. student pursuing B.Tech in CSE from Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)</h3>
 <p align="right"> <img src="https://www.pixel4k.com/wp-content/uploads/2019/09/spiderman-artnew_1568054843-2048x1152.jpg" alt="hrjha30" /> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" height="100" width="100" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hrjha30&label=Profile%20views&color=0e75b6&style=flat" alt="hrjha30" height="30" width="30" /> </p>
 <p align="center"> 
 <a href="https://linkedin.com/in/harsh-raj-jha-984102178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-jha-984102178" height="30" width="40" /></a>
 <a href="https://instagram.com/hrjha30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrjha30" height="30" width="40" /></a>
