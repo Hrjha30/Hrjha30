@@ -1,4 +1,5 @@
-<img src="[https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png](https://i.pinimg.com/originals/20/f2/8e/20f28e9a2ffca24cfab02a95c71ab0b9.jpg)">
+<img src="https://i.pinimg.com/originals/20/f2/8e/20f28e9a2ffca24cfab02a95c71ab0b9.jpg">
+<img align="fill" width="300" height="300" alt="Harsh Raj Jha" src="https://i.pinimg.com/originals/20/f2/8e/20f28e9a2ffca24cfab02a95c71ab0b9.jpg"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/harsh-raj-jha-984102178/)](https://www.linkedin.com/in/harsh-raj-jha-984102178/)
