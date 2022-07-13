@@ -23,7 +23,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 </div>
 
 ---
-### Github Stats
+## Github Stats
 
 <p align="center">
     <img
