@@ -22,6 +22,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
   <img src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=white" />
 </div>
 
+---
 ### Github Stats
 
 <p align="center">
