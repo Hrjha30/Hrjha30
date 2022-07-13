@@ -34,7 +34,13 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 </p>
 
 ---
-
-## Github Profile Trophy
-  <br/>
+## Github Profile Trophies and Contribution Graph
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=onedark" />
+</div>
+<br/>
+ <div>
+    <a href="#"><img alt="Harsh Raj Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrjha30&custom_title=Harsh%20Jha's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+<br/>
