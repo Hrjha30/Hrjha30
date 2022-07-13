@@ -36,11 +36,13 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 ---
 ## Github Profile Trophies and Contribution Graph
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=white" />
 </div>
 <br/>
  <div>
-    <a href="#"><img alt="Harsh Raj Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrjha30&custom_title=Harsh%20Jha's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+ <a href="#"><img alt="Harsh Raj Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrjha30&custom_title=Harsh%20Jha's%20Contribution%20Graph&bg_color=#FFFFFF&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
   <div> 
 </div>
 <br/>
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/sambit-patra-cr7/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
