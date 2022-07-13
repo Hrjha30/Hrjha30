@@ -21,7 +21,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 
 <p align="center">
     <img
-        height="180em"
+        height="150em"
         src="https://github-readme-stats.vercel.app/api?username=Hrjha30&show_icons=true&hide_border=true"
     />
     <img
