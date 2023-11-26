@@ -8,9 +8,6 @@
 
 <img align="left" width="290" height="250" alt="Harsh Raj Jha" src="https://static.vecteezy.com/system/resources/previews/000/376/583/original/vector-little-boy-waving-hand-hello.jpg">
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-
 ### I'm <a href="https://www.linkedin.com/in/harsh-raj-jha-984102178/" target="_blank">Harsh Raj Jha</a>!
 
 Currently pursuing my Bachelor's degree in Computer Science and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning full-stack web development. I am always open to collaborating on projects and innovative/disruptive ideas.
