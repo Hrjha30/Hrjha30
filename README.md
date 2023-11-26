@@ -40,12 +40,6 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 </p>
 
 ---
-### Github Contribution Graph
+### Github Activity Graph
 
-<br/>
- <div>
- <a href="#"><img alt="Harsh Raj Jha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrjha30&custom_title=Harsh%20Jha's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
-</div>
-<br/>
 
