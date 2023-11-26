@@ -19,7 +19,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 ---
 ### Github Profile Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=white" />
+  <img height = "190" src="https://github-profile-trophy.vercel.app/?username=Hrjha30&column=8&theme=white" />
 </div>
 
 ---
@@ -27,16 +27,16 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 
 <p align="center">
     <img
-        height="180em"
+        height="190em"
         src="https://github-readme-stats.vercel.app/api?username=Hrjha30&show_icons=true&hide_border=true"
     />
     <img
-        height="180em"
+        height="190em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrjha30&show_icons=true&hide_border=true&layout=compact&langs_count=8"
    />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrjha30&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrjha30&hide_border=true" height="190em" />
 </p>
 
 ---
