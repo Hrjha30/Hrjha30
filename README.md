@@ -5,12 +5,13 @@
 [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/dad_is_back)](https://www.codechef.com/users/dad_is_back)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshrajjha5@gmail.com)](mailto:harshrajjha5@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/hrjha30)](https://twitter.com/hrjha30)
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="220" height="220" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="left" width="180" height="auto"/> </a>
+<section><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="220" height="220" /></section>
+<section><a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="left" width="180" height="auto"/> </a></section>
 
-### I'm <a href="https://www.linkedin.com/in/harsh-raj-jha-984102178/" target="_blank">Harsh Raj Jha</a>!
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm <a href="https://www.linkedin.com/in/harsh-raj-jha-984102178/" target="_blank">Harsh Raj Jha</a>!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 Currently pursuing my Bachelor's degree in Computer Science and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning full-stack web development. I am always open to collaborating on projects and innovative/disruptive ideas.
+<br/>
 
 ## Languages and Tools
 
@@ -40,6 +41,5 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
 </p>
 
 ---
-### Github Activity Graph
 
 
