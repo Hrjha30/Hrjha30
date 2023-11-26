@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshrajjha5@gmail.com)](mailto:harshrajjha5@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/hrjha30)](https://twitter.com/hrjha30)
 
-<img align="left" width="290" height="250" alt="Harsh Raj Jha" src="https://drive.google.com/file/d/1ksctait8kn0FKHal-z4_1pA-aNFZbrm1/view?usp=sharing"/>
+<img align="left" width="290" height="250" alt="Harsh Raj Jha" src="https://static.vecteezy.com/system/resources/previews/000/376/583/original/vector-little-boy-waving-hand-hello.jpg">
 
 ### I'm <a href="https://www.linkedin.com/in/harsh-raj-jha-984102178/" target="_blank">Harsh Raj Jha</a>!
 
