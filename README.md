@@ -31,7 +31,7 @@ Currently pursuing my Bachelor's degree in Computer Science and Engineering from
         src="https://github-readme-stats.vercel.app/api?username=Hrjha30&show_icons=true&hide_border=true"
     />
     <img
-        height="130em"
+        height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrjha30&show_icons=true&hide_border=true&layout=compact&langs_count=8"
    />
 </p>
