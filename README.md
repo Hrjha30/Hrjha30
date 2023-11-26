@@ -5,7 +5,7 @@
 [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/dad_is_back)](https://www.codechef.com/users/dad_is_back)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshrajjha5@gmail.com)](mailto:harshrajjha5@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/hrjha30)](https://twitter.com/hrjha30)
-
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="left" width="150" height="auto"/> </a>
 
 ### I'm <a href="https://www.linkedin.com/in/harsh-raj-jha-984102178/" target="_blank">Harsh Raj Jha</a>!
